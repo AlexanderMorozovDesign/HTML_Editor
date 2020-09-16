@@ -1,0 +1,10 @@
+C:\Users\AlexM\source\repos\AlexanderMorozovDesign\HTML_Editor\bin\Debug\HTML_Editor.exe.config
+C:\Users\AlexM\source\repos\AlexanderMorozovDesign\HTML_Editor\bin\Debug\HTML_Editor.exe
+C:\Users\AlexM\source\repos\AlexanderMorozovDesign\HTML_Editor\bin\Debug\HTML_Editor.pdb
+C:\Users\AlexM\source\repos\AlexanderMorozovDesign\HTML_Editor\obj\Debug\HTML_Editor.csprojAssemblyReference.cache
+C:\Users\AlexM\source\repos\AlexanderMorozovDesign\HTML_Editor\obj\Debug\HTML_Editor.Form1.resources
+C:\Users\AlexM\source\repos\AlexanderMorozovDesign\HTML_Editor\obj\Debug\HTML_Editor.Properties.Resources.resources
+C:\Users\AlexM\source\repos\AlexanderMorozovDesign\HTML_Editor\obj\Debug\HTML_Editor.csproj.GenerateResource.cache
+C:\Users\AlexM\source\repos\AlexanderMorozovDesign\HTML_Editor\obj\Debug\HTML_Editor.csproj.CoreCompileInputs.cache
+C:\Users\AlexM\source\repos\AlexanderMorozovDesign\HTML_Editor\obj\Debug\HTML_Editor.exe
+C:\Users\AlexM\source\repos\AlexanderMorozovDesign\HTML_Editor\obj\Debug\HTML_Editor.pdb
